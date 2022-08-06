@@ -3,6 +3,7 @@
     flex-direction: row;
     width: 100%;
 }
+.skills {}
 .work-ex {
     width: 50%;
     display: flex;
@@ -27,8 +28,8 @@ span {
 }
 
 .pizza {
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
 }
 
 .work  {

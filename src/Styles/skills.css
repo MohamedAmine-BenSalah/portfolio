@@ -1,0 +1,36 @@
+.skills {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.skills_desc {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.title {
+    color:rgb(153,153,0)
+}
+
+
+.skills_photo {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(142,166,155);
+}
+.im{
+    width: 550px;
+    height: 600px;
+}
+
+li {
+    font-size: 150%;
+}
